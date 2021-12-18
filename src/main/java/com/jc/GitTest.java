@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("第四次提交");
         System.out.println("hotfix提交");
+        System.out.println("master冲突制造");
     }
 }
