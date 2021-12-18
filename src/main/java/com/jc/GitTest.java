@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("master 冲突制造");
         System.out.println("hotfix冲突制造");
         System.out.println("测试远程库push");
+        System.out.println("测试远程库pull");
     }
 }
