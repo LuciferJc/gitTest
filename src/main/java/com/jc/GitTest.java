@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("第四次提交");
         System.out.println("hotfix提交");
         System.out.println("master 冲突制造");
+        System.out.println("hotfix冲突制造");
     }
 }
